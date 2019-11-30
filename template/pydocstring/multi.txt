@@ -1,10 +1,10 @@
 """{{_header_}}
 
-Parameters:
-----------
+{Parameters:}
+{----------}
 {{_args_}}:
 
-Returns:
-----------
+{Returns:}
+{----------}
 {{_return_type_}}
 """

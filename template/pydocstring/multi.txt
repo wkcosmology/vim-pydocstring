@@ -1,5 +1,10 @@
 """{{_header_}}
 
-:param {{_args_}}:
-:rtype: {{_return_type_}}
+Parameters:
+----------
+{{_args_}}:
+
+Returns:
+----------
+{{_return_type_}}
 """
